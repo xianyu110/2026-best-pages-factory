@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xianyu110.github.io/2026-best-pages-factory/sitemap.xml

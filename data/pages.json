@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "best-ai-video-generators-2026",
+    "keyword": "2026 best AI video generators",
+    "title": "Best AI Video Generators in 2026",
+    "description": "A practical shortlist for creators, marketers, and solo founders comparing AI video tools by workflow, output quality, pricing, and export readiness.",
+    "audience": "Creators, marketers, ecommerce teams, and solo founders",
+    "updated": "2026-07-08",
+    "intent": "Commercial investigation",
+    "products": [
+      {
+        "name": "Runway",
+        "url": "https://runwayml.com",
+        "price": "Free tier, paid plans",
+        "bestFor": "High-quality creative video generation",
+        "score": 9.1,
+        "features": ["Text-to-video", "Image-to-video", "Editing tools", "Team workspace"],
+        "pros": ["Strong creative controls", "Mature editing workflow", "Good for production teams"],
+        "cons": ["Advanced workflows can get expensive", "Learning curve for non-designers"]
+      },
+      {
+        "name": "Pika",
+        "url": "https://pika.art",
+        "price": "Free tier, paid plans",
+        "bestFor": "Fast social video experiments",
+        "score": 8.7,
+        "features": ["Prompt-to-video", "Image animation", "Effects", "Social-friendly formats"],
+        "pros": ["Quick ideation", "Simple interface", "Good short-form output"],
+        "cons": ["Less control for long videos", "Output consistency varies by prompt"]
+      },
+      {
+        "name": "Synthesia",
+        "url": "https://www.synthesia.io",
+        "price": "Paid plans",
+        "bestFor": "Presenter-led business videos",
+        "score": 8.4,
+        "features": ["AI avatars", "Script-to-video", "Templates", "Localization"],
+        "pros": ["Clear business use case", "Good for training and onboarding", "Localization workflow"],
+        "cons": ["Less suitable for cinematic creative work", "Avatar style is not for every brand"]
+      },
+      {
+        "name": "Descript",
+        "url": "https://www.descript.com",
+        "price": "Free tier, paid plans",
+        "bestFor": "Editing podcasts and talking-head videos",
+        "score": 8.2,
+        "features": ["Transcript editing", "Screen recording", "AI voice tools", "Video export"],
+        "pros": ["Excellent text-based editing", "Useful for creators", "Strong post-production workflow"],
+        "cons": ["Not a pure generative video engine", "Best results still need source footage"]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best AI video generator for beginners in 2026?",
+        "answer": "Pika is a good starting point for quick experiments, while Runway is stronger when you need deeper creative control."
+      },
+      {
+        "question": "Should this page copy ranking data from other sites?",
+        "answer": "No. Use other search results for research only, then build your own criteria, product records, and update notes."
+      }
+    ]
+  },
+  {
+    "slug": "best-crm-for-real-estate-agents-2026",
+    "keyword": "2026 best CRM for real estate agents",
+    "title": "Best CRM for Real Estate Agents in 2026",
+    "description": "A compact comparison of real-estate CRM options focused on lead capture, follow-up automation, pipeline visibility, and practical pricing.",
+    "audience": "Independent agents, small brokerages, and real-estate growth teams",
+    "updated": "2026-07-08",
+    "intent": "Commercial investigation",
+    "products": [
+      {
+        "name": "Follow Up Boss",
+        "url": "https://www.followupboss.com",
+        "price": "Paid plans",
+        "bestFor": "Real-estate teams that need fast lead response",
+        "score": 8.9,
+        "features": ["Lead routing", "Calling and texting", "Integrations", "Team reporting"],
+        "pros": ["Built for real estate", "Strong follow-up workflow", "Good team visibility"],
+        "cons": ["May be more than solo agents need", "Requires disciplined setup"]
+      },
+      {
+        "name": "Pipedrive",
+        "url": "https://www.pipedrive.com",
+        "price": "Paid plans",
+        "bestFor": "Simple pipeline management",
+        "score": 8.3,
+        "features": ["Visual pipeline", "Email sync", "Automation", "Reports"],
+        "pros": ["Easy to understand", "Flexible sales pipeline", "Good general CRM value"],
+        "cons": ["Real-estate features may need add-ons", "Less specialized out of the box"]
+      },
+      {
+        "name": "HubSpot CRM",
+        "url": "https://www.hubspot.com/products/crm",
+        "price": "Free tools, paid hubs",
+        "bestFor": "Agents that want a broad marketing stack",
+        "score": 8.1,
+        "features": ["Contact management", "Forms", "Email marketing", "Automation"],
+        "pros": ["Useful free tier", "Strong ecosystem", "Good marketing features"],
+        "cons": ["Paid tiers can become complex", "Real-estate workflows need customization"]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What CRM features matter most for real estate agents?",
+        "answer": "Prioritize lead source tracking, fast follow-up, mobile access, pipeline stages, reminders, and integrations with your existing lead channels."
+      },
+      {
+        "question": "Can a general CRM work for real estate?",
+        "answer": "Yes, but it usually needs custom fields, templates, and automations before it feels natural for property and buyer workflows."
+      }
+    ]
+  },
+  {
+    "slug": "best-keyword-research-tools-2026",
+    "keyword": "2026 best keyword research tools",
+    "title": "Best Keyword Research Tools in 2026",
+    "description": "A comparison of SEO keyword tools for founders, content teams, and programmatic SEO builders who need reliable ideas, difficulty estimates, and SERP context.",
+    "audience": "SEO operators, indie hackers, content teams, and programmatic SEO builders",
+    "updated": "2026-07-08",
+    "intent": "Commercial investigation",
+    "products": [
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com",
+        "price": "Paid plans",
+        "bestFor": "Serious SEO teams and backlink-aware research",
+        "score": 9.0,
+        "features": ["Keyword explorer", "Site explorer", "Rank tracking", "Content gap"],
+        "pros": ["Large SEO dataset", "Strong backlink context", "Useful competitor research"],
+        "cons": ["Higher price point", "Can be overkill for small projects"]
+      },
+      {
+        "name": "Semrush",
+        "url": "https://www.semrush.com",
+        "price": "Paid plans",
+        "bestFor": "Broad SEO and marketing research",
+        "score": 8.8,
+        "features": ["Keyword research", "Competitor analysis", "Site audit", "Position tracking"],
+        "pros": ["Wide feature set", "Good competitive research", "Useful reporting"],
+        "cons": ["Interface can feel dense", "Costs add up for teams"]
+      },
+      {
+        "name": "LowFruits",
+        "url": "https://lowfruits.io",
+        "price": "Credits and paid plans",
+        "bestFor": "Finding lower-competition content opportunities",
+        "score": 8.2,
+        "features": ["SERP weakness analysis", "Keyword clustering", "Opportunity scoring"],
+        "pros": ["Good for niche sites", "Clear weak-spot workflow", "Practical for small operators"],
+        "cons": ["Narrower than full SEO suites", "Still needs manual review"]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best keyword research tool for programmatic SEO?",
+        "answer": "Use a broad dataset tool for discovery, then add a SERP-focused workflow to validate whether each keyword can support a distinct page."
+      },
+      {
+        "question": "Should every keyword become a page?",
+        "answer": "No. Only generate pages when the intent, data, and recommendation angle are meaningfully different."
+      }
+    ]
+  }
+]
