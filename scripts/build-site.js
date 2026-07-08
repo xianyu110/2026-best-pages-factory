@@ -7,8 +7,8 @@ const assetsDir = path.join(docsDir, "assets");
 const dataPath = path.join(root, "data", "pages.json");
 const pages = JSON.parse(fs.readFileSync(dataPath, "utf8"));
 const site = {
-  name: "2026 Best Pages Factory",
-  description: "A GitHub Pages-ready static demo for generating high-quality 2026 best xxx SEO listicle pages.",
+  name: "2026 AI Tools Pages Factory",
+  description: "A GitHub Pages-ready static demo for generating high-quality 2026 AI tools comparison and best-list pages.",
   baseUrl: process.env.SITE_URL || "https://xianyu110.github.io/2026-best-pages-factory"
 };
 
@@ -97,8 +97,8 @@ function renderHome() {
 <main>
   <section class="hero">
     <div class="hero-copy">
-      <h1>Generate useful 2026 “best xxx” pages from structured research.</h1>
-      <p>Turn keyword intent, SERP notes, product facts, scoring criteria, and FAQs into GitHub Pages-ready static pages. The system is built for reviewable content, not thin AI rewrites.</p>
+      <h1>Generate useful 2026 AI tools comparison pages from structured research.</h1>
+      <p>Turn search intent, SERP notes, product facts, scoring criteria, and FAQs into GitHub Pages-ready static pages. The system is built for reviewable AI tool content, not thin rewrites.</p>
       <div class="actions">
         <a class="button primary" href="#pages">View generated pages</a>
         <a class="button" href="https://github.com/xianyu110/2026-best-pages-factory">GitHub repo</a>
@@ -131,7 +131,7 @@ function renderHome() {
       <p>The project is intentionally framed as an operator workbench: compact pipeline, reviewable records, and generated outputs. This avoids a thin content-farm feel and makes each page easier to audit before publishing.</p>
     </div>
     <figure class="concept-image">
-      <img src="assets/factory-concept.png" alt="Concept mockup of the 2026 Best Pages Factory workflow UI">
+      <img src="assets/factory-concept.png" alt="Concept mockup of the 2026 AI Tools Pages Factory workflow UI">
     </figure>
   </section>
 
@@ -148,7 +148,7 @@ function renderHome() {
   <section class="section process">
     <h2>Operator workflow</h2>
     <ol>
-      <li><strong>Research keywords.</strong> Find patterns like <code>2026 best {category}</code>, <code>{tool} alternatives</code>, and <code>{tool A} vs {tool B}</code>.</li>
+      <li><strong>Research keywords.</strong> Find patterns like <code>2026 best AI video tools</code>, <code>Runway alternatives</code>, and <code>Pika vs Runway</code>.</li>
       <li><strong>Collect facts.</strong> Use official pages and reliable public sources for pricing, product positioning, and features.</li>
       <li><strong>Write criteria.</strong> Decide why the list exists and who each product is best for.</li>
       <li><strong>Generate and review.</strong> Build pages, check claims, test links, and publish through GitHub Pages.</li>
